@@ -2,14 +2,18 @@
 //AUTOR: Lucas Eduardo Dias de Oliveira - SENAI CNV
 //DATA: 04/10/2023
 
+//ATUALIZADO:
+//JUAREZ - 11/10/2023
+//CORREÇÃO ORDEM DE EXECUÇÃO TRAJETO-PASSO
+
   /*Caro programador, quando eu escrevi este código, apenas eu e Deus sabíamos como ele
   deveria funcionar, hoje em dia apenas Deus sabe. Se for necessário fazer alguma alteração
   (que sem dúvidas é necessário), busque ler ele atentamente, toda a documentação e lógica
   está descrita abaixo, além disso, adicione suas horas de trabalho, somente como medida
   de controle para caso algum dia precise. Boa sorte!
 
-  Total de horas gastas: 1h
-   JUAREZ: 3H
+   LUCAS: 1h
+   JUAREZ: 3h
   */
 
 //ATENÇÃO: LEIA COM ATENÇÃO AS INSTRUÇÕES ABAIXO:
